@@ -1,0 +1,16 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_EN\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"PO-Revision-Date: 2024-12-17 11:28\n"
+
+msgctxt "Addons::name::mia_pos"
+msgid "MIA POS addon name"
+msgstr "MIA POS Payment Module"
+
+msgctxt "Addons::description::mia_pos"
+msgid "MIA POS addon description"
+msgstr "Accept QR code and Request to Pay payments securely with the MIA POS module."
