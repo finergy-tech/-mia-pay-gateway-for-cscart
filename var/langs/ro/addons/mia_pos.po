@@ -1,0 +1,16 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-ro\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n == 1 ? 0 : (n == 0 || (n % 100 > 1 && n % 100 < 20) ? 1 : 2));\n"
+"PO-Revision-Date: 2024-12-17 11:28\n"
+
+msgctxt "Addons::name::mia_pos"
+msgid "MIA POS addon name"
+msgstr "Modul de plată MIA POS"
+
+msgctxt "Addons::description::mia_pos"
+msgid "MIA POS addon description"
+msgstr "Acceptați plăți prin cod QR și cereri de plată cu modulul MIA POS."
